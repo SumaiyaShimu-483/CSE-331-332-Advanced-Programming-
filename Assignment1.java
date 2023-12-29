@@ -1,3 +1,7 @@
+ //* Assignment-1
+ //* create a class called Product
+ //* create a main method
+ //* print the following data in main method
 
 package assignmentanisulislam;
 public class Assignment1 {
